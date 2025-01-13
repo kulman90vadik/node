@@ -97,6 +97,7 @@ app.listen(3333, (err) => {
 
 
 
+
 // app.post('/auth/login', (req, res) => {
 //   console.log(req.body); // будет undefine так как мы отправляли данные в формате json. А express не понимает что это
 //   const token = jwt.sign({
